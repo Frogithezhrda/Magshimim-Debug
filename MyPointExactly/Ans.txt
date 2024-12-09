@@ -1,0 +1,10 @@
+1.the point of the code is to output 
+the point locations which are the same
+p1=(1,2)
+p2=(1,2)
+2.the didnt print the point itself
+3.no it didnt stop because it doesnt call the operator anywhere there
+4.it printed the firstpoint but not the second correctly
+5.yes we can see
+6. shallow copy bug
+7.
